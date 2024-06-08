@@ -11,7 +11,7 @@
 public class SimpleStringMethods {
     /**
      * @param s the String to be manipulated.
-     * @return the length of string s.
+     * @return the length of string s..
      */
     public int getStringLength(String s){
         return s.length();
